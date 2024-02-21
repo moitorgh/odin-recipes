@@ -15,14 +15,22 @@ Following skills were demonstrated in the project:
   * **GitHub**
   * **GitHub Pages**
   * **HTML**
+  * **CSS**
 
 ## Self-Reflection
-Nothing really significant to add here! This is the first project in the Foundations course. I practiced my basic HTML chops which included stuff like the HTML boilerplate (i.e., the DOCTYPE and the elements like html, head, meta, title, body etc.) and other elements for headings, paragraphs, making text bold and italicized, nesting and indentation, ordered and unordered lists, links and images, git commit messages, writing READMEs, and build and deployment using github-pages.
+Nothing really significant to add here!
+
+This is the first project in the Foundations course.
+
+I practiced my basic HTML chops which included stuff like the HTML boilerplate (i.e., the DOCTYPE and the elements like html, head, meta, title, body etc.) and other elements for headings, paragraphs, making text bold and italicized, nesting and indentation, ordered and unordered lists, links and images, git commit messages, writing READMEs, and build and deployment using github-pages.
+
+I added CSS to change the look and style of the website. Some of the techniques that I utilized were the usage of a universal selector, type selectors, class selectors, ID selectors, grouping selectors, chaining selectors, descendant combinator, several CSS properties (particular the use of web fonts and generic fonts), CSS cascade, specificity, inheritance, and rule order.
 
 ## Future Additions
 Following features might be added in the project:
-- [ ] Style it up with CSS
+- [x] Style it up with CSS
 
 ## Contact and Support
 Contact me on the following for queries:
   * moitorgh_26401 on discord
+  * moitorgh at Gmail
