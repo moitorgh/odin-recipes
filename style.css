@@ -1,17 +1,12 @@
 * {
-  background-color: #fcdada;
+  background-color: #f9e7e7;
   font-family: "Trebuchet MS", "Arial", "Georgia", sans-serif;  
 }
 
-#recipes,
-body h1,
-body h2 {
-  background-color: rgb(227, 203, 203);
-}
-
 h1 {
+  background-color: whitesmoke;
   color: #3300ff;
-  font-size: 40px;
+  font-size: 50px;
   font-weight: 400;
 }
 
@@ -23,7 +18,9 @@ h1 {
   font-weight: 300;
 }
 
-.image {
+.image,
+.gif {
+  border-radius: 10% / 50%;
   height: auto;
   width: 350px;
 }
@@ -34,4 +31,45 @@ h1 {
   color: rgb(10, 10, 70);
   font-size: 16px;
   text-align: justify;
+}
+
+.container {
+  background-color: whitesmoke;
+  margin: 0 auto;
+  text-align: center;
+  width: 750px;
+}
+
+.container.main {
+  border: 1mm outset rgba(1, 0, 0, 0.832);
+  box-shadow: 10px 5px 5px red;
+}
+
+.container.heading {
+  text-decoration: underline overline #FF3028;
+  text-decoration-thickness: 3px;
+  text-shadow: 1px 1px 2px red, 0 0 1em blue, 0 0 0.2em blue;
+}
+
+.container.media,
+.container.list {
+  margin-bottom: 16px;
+}
+
+.container.list {
+  padding: 24px 0;
+}
+
+span {
+  border: 2px solid rebeccapurple;
+  border-radius: 50% 20% / 10% 40%;
+  box-shadow: 8px 8px 2px 1px rgba(0, 0, 255, .2);
+  font-size: 20px;
+  font-weight: 600;
+  margin: 0 24px;
+  padding: 4px;
+}
+
+a {
+  text-decoration: none;
 }
