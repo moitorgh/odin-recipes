@@ -26,10 +26,15 @@ I practiced my basic HTML chops which included stuff like the HTML boilerplate (
 
 I added CSS to change the look and style of the website. Some of the techniques that I utilized were the usage of a universal selector, type selectors, class selectors, ID selectors, grouping selectors, chaining selectors, descendant combinator, several CSS properties (particular the use of web fonts and generic fonts), CSS cascade, specificity, inheritance, and rule order.
 
+I improved upon the previous CSS by utilizing the newly learned CSS box model. I also used a gif to make it look pleasant and completely revamped the index page from earlier iterations.
+
+**Note:** I might not be improving all webpages to resemble the index page and that is because [projects in the foundations course aren't a strong portfolio generator](https://dev.to/theodinproject/strategically-building-your-portfolio-1km4).
+
 ## Future Additions
 Following features might be added in the project:
 - [x] Style it up with CSS
-- [ ] Improve index page using CSS box model
+- [x] Improve index page using CSS box model
+- [ ] Improve all webpages using CSS box model
 
 ## Contact and Support
 Contact me on the following for queries:
