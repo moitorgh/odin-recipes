@@ -29,6 +29,7 @@ I added CSS to change the look and style of the website. Some of the techniques 
 ## Future Additions
 Following features might be added in the project:
 - [x] Style it up with CSS
+- [ ] Improve index page using CSS box model
 
 ## Contact and Support
 Contact me on the following for queries:
