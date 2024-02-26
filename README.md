@@ -64,7 +64,7 @@ Furthermore, I improved upon the previous CSS by utilizing the newly learned CSS
 ## Contact & Support
 
 ### Contact
-Feel free to contact me on **discord (moitorgh_26401)** or **at Gmail (moitorgh)**.
+Feel free to contact me on **discord (moitorgh_26401)** or at **Gmail (moitorgh)**.
 
 ### Support
 No further support will be provided for **odin-recipes**.
