@@ -1,18 +1,5 @@
 # odin-recipes
-A Basic Recipe Website ([live demo](https://moitorgh.github.io/odin-recipes/))
-
-![Screenshot of index page](./images/index-screenshot.jpg)
-
-## Table of Contents
-* [General Info](#general-info)
-* [Technologies](#technologies)
-* [Screen Grabs](#screen-grabs)
-* [Project Status](#project-status)
-* [Setup & Usage](#setup--usage)
-* [Self Reflections](#self-reflections)
-* [Feature Additions](#feature-additions)
-* [Contact & Support](#contact--support)
-* [Acknowledgements](#acknowledgements)
+**A Basic Recipe Website** ([Give it a try!](https://moitorgh.github.io/odin-recipes/))
 
 ## General Info
 * **odin-recipes** is the [first project](https://www.theodinproject.com/lessons/foundations-recipes) of the [Foundations course](https://www.theodinproject.com/paths/foundations/courses/foundations) in [The Odin Project](https://www.theodinproject.com/about).
@@ -24,12 +11,6 @@ A Basic Recipe Website ([live demo](https://moitorgh.github.io/odin-recipes/))
   * **GitHub Pages**
   * **HTML**
   * **CSS**
-
-## Screen Grabs
-<img src="./images/index-screenshot.jpg" style="height: auto; width: 340px">
-<img src="./images/sinigang-screenshot.jpg" style="height: auto; width: 340px">
-<img src="./images/dumplings-screenshot.jpg" style="height: auto; width: 340px">
-<img src="./images/kungpao-screenshot.jpg" style="height: auto; width: 340px">
 
 ## Project Status
 ***This project is no longer actively maintained***.
@@ -58,7 +39,7 @@ A Basic Recipe Website ([live demo](https://moitorgh.github.io/odin-recipes/))
 
 ## Contact & Support
 * Feel free to contact me on **discord (moitorgh_26401)**.
-* No further improvements will be made for this project.
+* No further improvements will be made towards this project.
 
 ## Acknowledgements
 * The project specifications are in the [first project](https://www.theodinproject.com/lessons/foundations-recipes) of the [Foundations course](https://www.theodinproject.com/paths/foundations/courses/foundations) in [The Odin Project](https://www.theodinproject.com/about).
